@@ -1,0 +1,23 @@
+{
+  "name": "hellow",
+  "version": "1.0.0",
+  "description": "hellow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  },
+  "engines": {
+  "node": "10.x"
+  }
+}
